@@ -22,4 +22,4 @@ Theo em, lập trình di động vẫn sẽ phát triển mạnh trong 10 năm t
 Bên cạnh đó, các công nghệ mới như AI, AR/VR, IoT đang tích hợp vào mobile app, tạo thêm cơ hội cho lập trình viên di động.
 
 3.
-![image](https://github.com/user-attachments/assets/1d42526c-2075-421d-adfa-159dedc17b81)
+![image](https://github.com/user-attachments/assets/d3e3ba7c-36c4-4a7a-8d36-5aea211566c0)
